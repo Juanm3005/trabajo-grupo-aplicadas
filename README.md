@@ -1,1 +1,4 @@
-# trabajo-grupo-aplicadas
+# Trabajo grupo aplicadas
+
+#Andres Martinez 
+#Juan Camilo Pelaez
